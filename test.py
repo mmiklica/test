@@ -5,6 +5,7 @@ class my_class:
 
 	def __init__(self):
 		print("init")
+		print "test"
 		self.s = ""
 
 	def prnt(self):
